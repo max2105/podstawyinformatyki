@@ -5,3 +5,4 @@ naprawa błędów - hotFix-001
 Dodano asystenta pomocy
 Uproszczenie interfejsu graficznego
 >>>>>>> easierApp
+zmiana10
