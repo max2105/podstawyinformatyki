@@ -1,0 +1,63 @@
+[33mcommit 290d93bd0216e8a9e5da2fbcd0a076958c564c68[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Maksymilian Semeniuk <ms303228@student.polsl.pl>
+Date:   Mon Nov 29 23:53:39 2021 +0100
+
+    zmiana06
+
+ Plik01.txt | 2 [32m+[m[31m-[m
+ Plik03.txt | 0
+ 2 files changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit 3a837d98f7f213eaefb9cf3e208f9c6a147fe915[m
+Author: Maksymilian Semeniuk <ms303228@student.polsl.pl>
+Date:   Mon Nov 29 23:43:37 2021 +0100
+
+    dodano plik
+
+ Plik02.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit 56b7c3813488e17657b2ff5584665d63f579cdbc[m
+Author: Maksymilian Semeniuk <ms303228@student.polsl.pl>
+Date:   Mon Nov 29 23:36:04 2021 +0100
+
+    zmiana05
+
+ Plik01.txt | 3 [32m++[m[31m-[m
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+[33mcommit f2f10f3460967ab7b1852035fde3f8a00c7bc9a7[m
+Author: Maksymilian Semeniuk <ms303228@student.polsl.pl>
+Date:   Mon Nov 29 23:34:30 2021 +0100
+
+    zmiana04
+
+ Plik01.txt | 3 [32m++[m[31m-[m
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+[33mcommit 3e400c585f8c715fb8b125a696086842e0a9a532[m
+Author: Maksymilian Semeniuk <ms303228@student.polsl.pl>
+Date:   Mon Nov 29 23:30:21 2021 +0100
+
+    zmiana03
+
+ Plik01.txt | 3 [32m++[m[31m-[m
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+[33mcommit 55359cfaec018a76c8ee7fa0082bed0915fb3a52[m
+Author: Maksymilian Semeniuk <ms303228@student.polsl.pl>
+Date:   Mon Nov 29 23:28:13 2021 +0100
+
+    zmiana02
+
+ Plik01.txt | 3 [32m++[m[31m-[m
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+[33mcommit 68046bf5265f2f5885cb9fc7686229ec513ea3d1[m
+Author: Maksymilian Semeniuk <ms303228@student.polsl.pl>
+Date:   Mon Nov 29 23:22:25 2021 +0100
+
+    zmiana01
+
+ Plik01.txt | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
