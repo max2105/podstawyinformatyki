@@ -5,3 +5,4 @@ zmiana04
 zmiana05
 zmiana07c
 Dodano asystenta pomocy
+Uproszczenie interfejsu graficznego
