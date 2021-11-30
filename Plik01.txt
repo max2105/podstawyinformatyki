@@ -7,3 +7,4 @@ zmiana07c
 Dodano asystenta pomocy
 zmiana08
 zmiana10
+zmiana11
